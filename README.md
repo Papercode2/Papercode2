@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Maweu
 - 👀 I’m interested in software development 
-- 🌱 I’m currently a student at kabianga       university taking IT
+- 🌱 I’m currently a student at khu             university taking IT
 - 💞️ I’m looking to collaborate with IT        supportive organisation like safaricom      ,microsoft and many others 
 - 📫 You can reach me via whatsapp-0740770403 or email papercoding2@gmail.com
 
