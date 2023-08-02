@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Papercode2
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php with you
-- 📫 you can reach me via whatsapp-0740770403
+- 👋 Hi, I’m Brian Maweu
+- 👀 I’m interested in software development 
+- 🌱 I’m currently a student at kabianga       university taking IT
+- 💞️ I’m looking to collaborate with IT        supportive organisation like safaricom      ,microsoft and many others 
+- 📫 You can reach me via whatsapp-0740770403 or email papercoding2@gmail.com
 
 <!---
 Papercode2/Papercode2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
