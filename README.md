@@ -74,8 +74,8 @@
         <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
         <br>Kotlin
       </td>
-      <td align="center" width="96">
-        <img src="https://seeklogo.com/images/J/jetpack-compose-logo-97F9D9F9D9-seeklogo.com.png" width="48" height="48" alt="Jetpack Compose" />
+            <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/353805/jetpack-compose.svg" width="48" height="48" alt="Jetpack Compose" />
         <br>Compose
       </td>
       <td align="center" width="96">
