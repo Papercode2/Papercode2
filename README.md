@@ -1,7 +1,7 @@
 # 🚀 Brian Maweu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=500&color=6D5BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Innovation+Architect;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=500&color=6D5BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Software+Engineer;Innovation+Architect;Problem+Solver" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -18,7 +18,8 @@
         <h2>⚡ <span style="color: #6D5BFF;">CURRENTLY</span></h2>
         <p style="font-size: 18px; line-height: 1.8;">
           🧑‍💻 <strong>Full Stack Developer</strong> @ <span style="color: #00D1FF;">Brookside</span><br>
-          🎯 <strong>Building:</strong> Scalable web applications<br>
+          📱 <strong>Mobile Dev:</strong> Kotlin | Jetpack Compose<br>
+          🎯 <strong>Building:</strong> Scalable web & mobile applications<br>
           🌱 <strong>Exploring:</strong> Cloud Architecture & AI/ML<br>
           💡 <strong>Mission:</strong> Code that makes a difference
         </p>
@@ -36,6 +37,7 @@
 <h2 align="center">🛠️ <span style="background: linear-gradient(90deg, #6D5BFF, #00D1FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">TECH STACK</span></h2>
 
 <div align="center">
+  <h3>🎯 Backend Development</h3>
   <table>
     <tr>
       <td align="center" width="96">
@@ -51,18 +53,66 @@
         <br>Flask
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        <br>Laravel
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
         <br>PHP
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
     </tr>
+  </table>
+
+  <h3>📱 Mobile Development</h3>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+        <br>Kotlin
+      </td>
+      <td align="center" width="96">
+        <img src="https://seeklogo.com/images/J/jetpack-compose-logo-97F9D9F9D9-seeklogo.com.png" width="48" height="48" alt="Jetpack Compose" />
+        <br>Compose
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android" />
+        <br>Android
+      </td>
+    </tr>
+  </table>
+
+  <h3>💾 Databases</h3>
+  <table>
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
         <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+        <br>SQLite
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+      </td>
+    </tr>
+  </table>
+
+  <h3>🎨 Frontend Development</h3>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -76,9 +126,35 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
         <br>Bootstrap
       </td>
+    </tr>
+  </table>
+
+  <h3>⚙️ Languages & Tools</h3>
+  <table>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        <br>C/C++
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+        <br>Android Studio
       </td>
     </tr>
   </table>
@@ -145,24 +221,63 @@
   <table>
     <tr>
       <td width="50%">
-        <h3>📱 <span style="color: #6D5BFF;">Project Alpha</span></h3>
-        <p>Full-stack web application with Django & React</p>
+        <h3>📱 <span style="color: #6D5BFF;">Android App with Jetpack Compose</span></h3>
+        <p>Modern Android app built with Kotlin and Jetpack Compose</p>
         <p>
-          <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />
-          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
         </p>
       </td>
       <td width="50%">
-        <h3>⚙️ <span style="color: #6D5BFF;">Project Beta</span></h3>
-        <p>RESTful API with Flask & MySQL</p>
+        <h3>⚙️ <span style="color: #6D5BFF;">Laravel Web Application</span></h3>
+        <p>Full-stack web app with Laravel & MySQL</p>
         <p>
-          <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask" />
+          <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+          <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>🐍 <span style="color: #6D5BFF;">Django REST API</span></h3>
+        <p>Scalable RESTful API with Django & PostgreSQL</p>
+        <p>
+          <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />
+          <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3>☕ <span style="color: #6D5BFF;">Java Desktop Application</span></h3>
+        <p>Desktop app built with Java and MySQL</p>
+        <p>
+          <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
           <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         </p>
       </td>
     </tr>
   </table>
 </div>
+
+<br>
+
+<!-- SKILLS SUMMARY BANNER -->
+<h2 align="center">📋 <span style="background: linear-gradient(90deg, #6D5BFF, #00D1FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">SKILLS AT A GLANCE</span></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
 <br>
 
@@ -199,4 +314,8 @@
 
 <p align="center">
   <i>Let's connect, collaborate, and build amazing projects together!</i>
-</p>**Let’s connect, collaborate, and build amazing projects together!**
+</p>
+
+<p align="center">
+  <b>Full Stack | Mobile Dev | Kotlin | Jetpack Compose | Laravel | Django | Java | Python | PHP</b>
+</p>
